@@ -14,7 +14,7 @@ venv/
 
 # Vector database
 data/vector_store/
-
+notebook/data/vector_store/
 # OS files
 .DS_Store
 
